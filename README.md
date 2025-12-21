@@ -157,20 +157,6 @@ output_dir = os.path.join(os.getcwd(), "outputs", "residuals")
 
 ---
 
-## Reproducibility note: aligning manuscript, supplement, and code
-
-If you are using this repository as the “public code release” referenced in a paper submission, ensure the **repository implementation matches the manuscript claims**, particularly for:
-
-- hyperparameter tuning (e.g., randomized/grid search)
-- time-series validation scheme (rolling/expanding-window CV)
-- statistical comparison tests (e.g., Diebold–Mariano)
-- the exact train/test horizon and hold-out window
-- coverage for both Basmati and Maza experiments
-
-At present, `AgriSentRice.py` provides a **baseline** implementation using fixed hyperparameters and a single 80/20 chronological split.
-
----
-
 ## How to cite
 
 If you use this code or the merged dataset, please cite the associated manuscript. A BibTeX entry can be added here once the paper is accepted/published.
