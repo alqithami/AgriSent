@@ -52,7 +52,7 @@ The repository includes:
 
 - **`rice_tweets _with_sentiments.xlsx`**
 
-If this spreadsheet contains **tweet text**, you should verify compliance with Twitter/X developer terms before making the repository broadly public. A common compliant pattern is to release **tweet IDs only** and provide a rehydration script. If you decide to keep this repository permanently public, consider replacing any raw text with tweet IDs and derived labels/metadata.
+If this spreadsheet contains **tweet text**, you should verify compliance with Twitter/X developer terms before making the repository broadly public. A common compliant pattern is to release **tweet IDs only** and provide a rehydration script. After acceptance in order to keep this repository permanently public we will consider replacing any raw text with tweet IDs and derived labels/metadata.
 
 ---
 
