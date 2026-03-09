@@ -160,7 +160,7 @@ output_dir = os.path.join(os.getcwd(), "outputs", "residuals")
 
 If you use this code or the merged dataset, please cite the associated manuscript. 
 
-```
+```bibtex
 @article{Alqithami2026AgriSent,
   title={AI-Driven Agricultural Price Forecasting: Leveraging Consumer Sentiment for Precision Market Intelligence},
   author={Saad Alqithami and Musaad Alzahrani},
@@ -171,6 +171,6 @@ If you use this code or the merged dataset, please cite the associated manuscrip
 ```
 ---
 
-## Contact
+## License
 
-For questions, please open a GitHub Issue or contact the repository maintainer via GitHub profile.
+This repository is released under the **MIT License**. See `LICENSE`.
