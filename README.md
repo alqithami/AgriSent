@@ -159,6 +159,16 @@ output_dir = os.path.join(os.getcwd(), "outputs", "residuals")
 ## How to cite
 
 If you use this code or the merged dataset, please cite the associated manuscript. 
+
+```
+@article{kumar2025ai,
+  title={AI-Driven Agricultural Price Forecasting: Leveraging Consumer Sentiment for Precision Market Intelligence},
+  author={Saad Alqithami and Musaad Alzahrani},
+  journal={TBD, e.g., Data Science in Finance and Economics (DSFE)},
+  pages={1-31},
+  year={2026}
+}
+```
 ---
 
 ## Contact
