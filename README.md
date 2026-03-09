@@ -158,8 +158,7 @@ output_dir = os.path.join(os.getcwd(), "outputs", "residuals")
 
 ## How to cite
 
-If you use this code or the merged dataset, please cite the associated manuscript. A BibTeX entry will be added here once the paper is accepted.
-
+If you use this code or the merged dataset, please cite the associated manuscript. 
 ---
 
 ## Contact
