@@ -164,7 +164,7 @@ If you use this code or the merged dataset, please cite the associated manuscrip
 @article{Alqithami2026AgriSent,
   title={AI-Driven Agricultural Price Forecasting: Leveraging Consumer Sentiment for Precision Market Intelligence},
   author={Saad Alqithami and Musaad Alzahrani},
-  journal={TBD, e.g., Data Science in Finance and Economics (DSFE)},
+  journal={Data Science in Finance and Economics (DSFE)},
   pages={1-31},
   year={2026}
 }
