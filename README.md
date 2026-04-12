@@ -2,7 +2,7 @@
 
 **AgriSent** is a research repository that supports the manuscript:
 
-> *AI-Driven Agricultural Price Forecasting: Leveraging Consumer Sentiment for Precision Market Intelligence*  
+> *Sentiment-Enhanced Rice Price Forecasting under Sparse Social-Media Coverage: Evidence from Saudi Rice Imports*  
 
 The project investigates whether **consumer sentiment extracted from Arabic/English social-media posts** (Twitter/X) adds predictive signal for **monthly Saudi rice import prices**, when combined with **historical price dynamics** and **local temperature-based climate variables**.
 
