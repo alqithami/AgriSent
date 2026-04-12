@@ -6,7 +6,8 @@
 
 The project investigates whether **consumer sentiment extracted from Arabic/English social-media posts** (Twitter/X) adds predictive signal for **monthly Saudi rice import prices**, when combined with **historical price dynamics** and **local temperature-based climate variables**.
 
-![Descriptive alt text for the image](graphical_abstract.png)
+<img width="2753" height="1536" alt="dsfe-440-graphical" src="https://github.com/user-attachments/assets/1baf5ac4-387c-467c-9290-4e3635828fd0" />
+
 
 ---
 
