@@ -164,11 +164,11 @@ If you use this code or the merged dataset, please cite the associated manuscrip
 
 ```bibtex
 @article{Alqithami2026AgriSent,
-  title={AI-Driven Agricultural Price Forecasting: Leveraging Consumer Sentiment for Precision Market Intelligence},
+  title={Sentiment-Enhanced Rice Price Forecasting under Sparse Social-Media Coverage: Evidence from Saudi Rice Imports},
   author={Saad Alqithami and Musaad Alzahrani},
   journal={Data Science in Finance and Economics (DSFE)},
-  pages={1-31},
-  year={2026}
+  pages={1-29},
+  year={In Press, 2026}
 }
 ```
 ---
