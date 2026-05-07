@@ -1,5 +1,9 @@
 # AgriSent
 
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![arXiv](https://img.shields.io/badge/DSFE-10.3934/DSFE.2026009-b31b1b.svg)](https://www.aimspress.com/article/doi/10.3934/DSFE.2026009)
+
 **AgriSent** is a research repository that supports the manuscript:
 
 > *Sentiment-Enhanced Rice Price Forecasting under Sparse Social-Media Coverage: Evidence from Saudi Rice Imports*  
